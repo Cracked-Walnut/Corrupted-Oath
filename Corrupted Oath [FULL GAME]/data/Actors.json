@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"Package1_4","characterIndex":0,"characterName":"Package_1","classId":1,"equips":[3,60,0,63],"faceIndex":3,"faceName":"Package1","traits":[{"code":51,"dataId":1,"value":1},{"code":51,"dataId":2,"value":1},{"code":51,"dataId":3,"value":1},{"code":51,"dataId":5,"value":1},{"code":51,"dataId":16,"value":1},{"code":51,"dataId":17,"value":1},{"code":51,"dataId":22,"value":1},{"code":51,"dataId":7,"value":1},{"code":52,"dataId":1,"value":0},{"code":52,"dataId":3,"value":0},{"code":43,"dataId":2,"value":1},{"code":43,"dataId":4,"value":1},{"code":41,"dataId":1,"value":1},{"code":41,"dataId":2,"value":1},{"code":41,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":50,"name":"Nintai III","nickname":"","note":"<battle command: attack />\n<battle command: skill_list />\n<battle command: item />\n\n<Hit Damage Sound: Paralyze2, 90>\n\n<Disable Dashing>\n","profile":""}
+]
